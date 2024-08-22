@@ -16,6 +16,7 @@ This repository contains a detailed implementation of RFM (Recency, Frequency, M
 
 ### Prerequisites
 Dataset link: https://statso.io/rfm-analysis-case-study/#google_vignette
+
 Ensure you have the following libraries installed:
 
 ```bash
